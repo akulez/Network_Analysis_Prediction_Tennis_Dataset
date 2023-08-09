@@ -5,6 +5,7 @@ The following project involves Network Analysis and Prediction on the Tennis Dat
   - Once the dataset was collected, it was not in the right format for network analysis and thus various preprocessing steps had to be performed.
   - Various steps were performed using Python to get the data in the right format for analysis.
   - Once data was ready, the tennis dataset was visualised using Gephi, a graph analysis tool.
+    
 
 2. **Metrics Calculations as follows:**
   - Avg. Degree & Highest Degree - To analyze which nodes have the highest degrees and what is the average degree of the network.
