@@ -1,12 +1,11 @@
 # Network Analysis and Prediction on Tennis Dataset
-The following project involves Network Analysis and Prediction on the Tennis Dataset. The code intends to appl various Network Analysis tools including Centrality Analysis, Degree Distributions, Density Analysis, Community Detection and Link Prediction. Tools utilised for this project include Python and Gephi. The project was done in several parts as described below:
+The following project involves Network Analysis and Prediction on the Tennis Dataset. The project intends to apply various Network Analysis tools including Centrality Analysis, Degree Distributions, Density Analysis, Community Detection and Link Prediction. Tools utilised for this project include Python and Gephi. The project was done in several parts as described below:
 
 1. **Data Preprocessing and Visaulisation in Gephi**
   - Once the dataset was collected, it was not in the right format for network analysis and thus various preprocessing steps had to be performed.
   - Various steps were performed using Python to get the data in the right format for analysis.
   - Once data was ready, the tennis dataset was visualised using Gephi, a graph analysis tool.
     
-
 2. **Metrics Calculations as follows:**
   - Avg. Degree & Highest Degree - To analyze which nodes have the highest degrees and what is the average degree of the network.
   - Degree Distribution - To analyze if the network follows any degree distribution such as log-normal or power law. This helps in understanding the structure of the network and if the data follows any probability distribution.
